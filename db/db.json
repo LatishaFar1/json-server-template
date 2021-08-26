@@ -2,7 +2,7 @@
   "Incidents": [
     {
       "id": 1,
-      "date":"08/01/2021" ,
+      "date": "08/01/2021",
       "avenger": "Hulk",
       "image": "https://www.pluggedin.com/wp-content/uploads/2019/12/the-hulk-1024x640.jpg",
       "complaint": "He smashed my car and walked off like it was nothing!",
@@ -10,7 +10,7 @@
       "resolution": "resolved"
     },
     {
-      "date":"08/03/2021" ,
+      "date": "08/03/2021",
       "avenger": "Venom",
       "image": "https://media.wired.com/photos/5bb69ec50bba6f2d70ffcc11/master/w_2560%2Cc_limit/Venom_TA.jpg",
       "complaint": "It (he?) came out of knowhere and ate my cat! Then, he (it??) said my cat didn't have enough salt!",
@@ -18,16 +18,14 @@
       "resolution": "unresolved"
     },
     {
-      "date":"08/05/2021" ,
+      "date": "08/05/2021",
       "avenger": "Rocket the Raccoon",
       "image": "https://www.indiewire.com/wp-content/uploads/2020/12/Screen-Shot-2020-12-24-at-5.05.36-PM.png",
       "complaint": "It bit and flipped me off when I tried to pet it",
       "Email": "ghi@gmail.com",
       "resolution": "unresolved"
     }
-    
   ],
-
   "Lawyers": [
     {
       "id": "1",
@@ -44,7 +42,7 @@
     {
       "id": "3",
       "name": "Jeri Hogarth",
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Carrie-Anne_Moss_as_Jeri_Hogarth.jpg/220px-Carrie-Anne_Moss_as_Jeri_Hogarth.jpg",
+      "image": "https://static.wikia.nocookie.net/marveldatabase/images/6/6a/Jeryn_Hogarth_%28Earth-199999%29_from_Marvel%27s_Jessica_Jones_Season_1_Promotional.png/revision/latest?cb=20190814093546",
       "Email": "Jeri@hcblaw.com"
     }
   ]
