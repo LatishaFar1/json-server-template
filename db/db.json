@@ -10,6 +10,7 @@
       "resolution": "resolved"
     },
     {
+      "id": 2,
       "date": "08/03/2021",
       "avenger": "Venom",
       "image": "https://media.wired.com/photos/5bb69ec50bba6f2d70ffcc11/master/w_2560%2Cc_limit/Venom_TA.jpg",
@@ -18,6 +19,7 @@
       "resolution": "unresolved"
     },
     {
+      "id": 3,
       "date": "08/05/2021",
       "avenger": "Rocket the Raccoon",
       "image": "https://www.indiewire.com/wp-content/uploads/2020/12/Screen-Shot-2020-12-24-at-5.05.36-PM.png",
@@ -31,19 +33,22 @@
       "id": "1",
       "name": "Matthew Murdock",
       "image": "https://www.cnet.com/a/img/yXJvXthjWU7qeLZ4maqSHZeuCB8=/968x297:3702x2310/940x0/2019/01/23/c83aff23-7d35-4c92-8b63-5c345f9443c3/daredevil-netflix-023-ringside-313-unit-00463r.jpg",
-      "Email": "Murdock@nelson&murdocklaw.com"
+      "Email": "Murdock@nelson&murdocklaw.com",
+      "Desc":"Matthew Murdock is determined to do whatever it takes to fight justice in the courtroom (and out of it)" 
     },
     {
       "id": "2",
       "name": "Franklin Nelson",
       "image": "https://static.wikia.nocookie.net/87d17936-d3f3-45c5-a98b-8c37c21a3ce2/scale-to-width/755",
-      "Email": "Nelson@nelson&murdocklaw.com"
+      "Email": "Nelson@nelson&murdocklaw.com",
+      "Desc": "Mr. Nelson wins cases for both big and small clients. With or without his co-counsel Mr. Murdock, there is no challenge too great!"
     },
     {
       "id": "3",
       "name": "Jeri Hogarth",
-      "image": "https://static.wikia.nocookie.net/marveldatabase/images/6/6a/Jeryn_Hogarth_%28Earth-199999%29_from_Marvel%27s_Jessica_Jones_Season_1_Promotional.png/revision/latest?cb=20190814093546",
-      "Email": "Jeri@hcblaw.com"
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Carrie-Anne_Moss_as_Jeri_Hogarth.jpg/220px-Carrie-Anne_Moss_as_Jeri_Hogarth.jpg",
+      "Email": "Jeri@hcblaw.com",
+      "Desc": "Ms. Hogarth has over 15 years of corporate and criminal legal experience. Likened to a shark, there are very few attorneys that can go toe to toe with her in courtroom"
     }
   ]
 }
