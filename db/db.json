@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "date": "08/03/2021",
+      "date": "2021-08-03",
       "avenger": "Venom",
       "image": "https://media.wired.com/photos/5bb69ec50bba6f2d70ffcc11/master/w_2560%2Cc_limit/Venom_TA.jpg",
       "complaint": "It (he?) came out of knowhere and ate my cat! Then, he (it??) said my cat didn't have enough salt!",
@@ -20,12 +20,19 @@
     },
     {
       "id": 3,
-      "date": "08/05/2021",
+      "date": "2021-08-05",
       "avenger": "Rocket the Raccoon",
       "image": "https://www.indiewire.com/wp-content/uploads/2020/12/Screen-Shot-2020-12-24-at-5.05.36-PM.png",
       "complaint": "It bit and flipped me off when I tried to pet it",
       "Email": "ghi@gmail.com",
       "resolution": "unresolved"
+    },
+    {
+      "date": "2021-08-12",
+      "avenger": "Spiderman",
+      "complaint": "He left his webs all over my building. Who is supposed to clean this up?",
+      "image": "https://static.rogerebert.com/uploads/review/primary_image/reviews/spider-man-2-2004/EB20040629REVIEWS406300301AR.jpg",
+      "id": 4
     }
   ],
   "Lawyers": [
@@ -34,7 +41,7 @@
       "name": "Matthew Murdock",
       "image": "https://www.cnet.com/a/img/yXJvXthjWU7qeLZ4maqSHZeuCB8=/968x297:3702x2310/940x0/2019/01/23/c83aff23-7d35-4c92-8b63-5c345f9443c3/daredevil-netflix-023-ringside-313-unit-00463r.jpg",
       "Email": "Murdock@nelson&murdocklaw.com",
-      "Desc":"Matthew Murdock is determined to do whatever it takes to fight justice in the courtroom (and out of it)" 
+      "Desc": "Matthew Murdock is determined to do whatever it takes to fight justice in the courtroom (and out of it)"
     },
     {
       "id": "2",
